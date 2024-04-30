@@ -1,0 +1,80 @@
+    .container {
+        display: flex;
+        margin: 50px 0px;
+        justify-content: space-evenly;
+        gap: 0px;
+    }
+
+    .form {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        width: 400px;
+        border: 2px solid black;
+        border-radius: 20px;
+        margin: auto;
+    }
+
+    h2 {
+        padding: 10px 30px;
+        color: rgb(19, 110, 146);
+        font-size: 28px;
+        margin: auto;
+    }
+
+    #name {
+        padding: 10px;
+    }
+
+    #email {
+        padding: 10px;
+    }
+
+    #pass {
+        padding: 10px;
+    }
+
+    #reg {
+        padding: 10px 30px;
+        background-color: rgb(19, 110, 146);
+        color: white;
+        font-size: 16px;
+        border: none;
+        border-radius: 8px;
+        width: 150px;
+        margin: auto;
+        cursor: pointer;
+    }
+
+    /* Sign Up ends */
+    /* Login Starts  */
+    h2 {
+        padding: 10px 30px;
+        color: rgb(19, 110, 146);
+        font-size: 28px;
+        margin: auto;
+    }
+
+    #login-name {
+        padding: 10px;
+    }
+
+    #login-email {
+        padding: 10px;
+    }
+
+    #login-pass {
+        padding: 10px;
+    }
+
+    #login {
+        padding: 10px 30px;
+        background-color: rgb(19, 110, 146);
+        color: white;
+        font-size: 16px;
+        border: none;
+        border-radius: 8px;
+        width: 150px;
+        margin: auto;
+        cursor: pointer;
+    }
